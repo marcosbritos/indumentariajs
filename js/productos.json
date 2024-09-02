@@ -1,0 +1,18 @@
+[
+    {"imagen": "./img/venta1.jpg", "id": "lacoste-01", "titulo": "Chanclas Lacoste", "categoria":{"nombre": "Lacoste",  "id": "lacoste"}, "precio": 60000 },
+    {"imagen": "./img/venta2.jpg", "id": "lacoste-02", "titulo": "Remera Lacoste", "categoria":{"nombre": "Lacoste",  "id": "lacoste"}, "precio": 35000 },
+    {"imagen": "./img/venta3.jpg", "id": "lacoste-03", "titulo": "Camisa Negra Lacoste", "categoria":{"nombre": "Lacoste",  "id": "lacoste"}, "precio": 27000 },
+    {"imagen": "./img/venta4.jpg", "id": "lacoste-04", "titulo": "Zapatillas Lacoste Azul", "categoria":{"nombre": "Lacoste",  "id": "lacoste"}, "precio": 100000 },
+    {"imagen": "./img/venta5.jpg", "id": "lacoste-05", "titulo": "Lentes Lacoste", "categoria":{"nombre": "Accesorios",  "id": "accesorios"}, "precio": 220000 },
+    {"imagen": "./img/venta6.jpg", "id": "lacoste-06", "titulo": "Chomba Lacoste", "categoria":{"nombre": "Lacoste",  "id": "lacoste"},  "precio": 290000 },
+    {"imagen": "./img/venta7.jpg", "id": "lacoste-07", "titulo": "Perfume Lacoste", "categoria":{"nombre": "Accesorios",  "id": "accesorios"}, "precio": 310000 },
+    {"imagen": "./img/venta8.jpg",  "id": "nike-08", "titulo": "Zapatillas Nike Azules", "categoria":{"nombre": "Nike",  "id": "nike"}, "precio": 200000 },
+    {"imagen": "./img/venta9.jpg",  "id": "nike-09", "titulo": "Zapatillas Nike Urbana", "categoria":{"nombre": "Nike",  "id": "nike"}, "precio": 180000 },
+    {"imagen": "./img/venta10.jpg",  "id": "nike-10", "titulo": "Zapatillas Nike Verdes", "categoria":{"nombre": "Nike",  "id": "nike"}, "precio": 230000 },
+    {"imagen": "./img/venta11.jpg",  "id": "nike-11", "titulo": "Zapatillas Nike bicolor", "categoria":{"nombre": "Nike",  "id": "nike"}, "precio": 280000 },
+    {"imagen": "./img/venta12.jpg",  "id": "nike-12", "titulo": "Botas Nike Celeste", "categoria":{"nombre": "Nike",  "id": "nike"}, "precio": 245550 },
+    {"imagen": "./img/venta13.jpg",  "id": "nike-13", "titulo": "Botas Nike Marron", "categoria":{"nombre": "Nike",  "id": "nike"}, "precio": 250000 },
+    {"imagen": "./img/venta14.jpg",  "id": "nike-14", "titulo": "Botas Nike beige", "categoria":{"nombre": "Nike",  "id": "nike"}, "precio": 300000 },
+    {"imagen": "./img/venta15.jpg",  "id": "nike-15", "titulo": "Botas Nike Violeta", "categoria":{"nombre": "Nike",  "id": "nike"}, "precio": 350000 },
+    {"imagen": "./img/venta16.jpg",  "id": "nike-16", "titulo": "Zapatillas Nike Sports", "categoria":{"nombre": "Nike",  "id": "nike"}, "precio": 400000 }
+]
